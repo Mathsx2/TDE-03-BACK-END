@@ -19,5 +19,7 @@ CRUD básico em PHP com as seguintes funcionalidades:
 - Matheus Almeida Macedo Landim
 - Felipe de Oliveira Leite
 - João Vitor Medeiros Uchoa
-- 
+- João Victor Saraiva
+
+|       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
 
