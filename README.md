@@ -1,4 +1,7 @@
-# TDE 03 - AGENCIA DE VIAGENS
+# TDE 03 - AGENCIA DE VIAGENS 
+
+[![PHP & SQL](https://skillicons.dev/icons?i=php,mysql	)](https://skillicons.dev)
+
 
 CRUD básico em PHP com as seguintes funcionalidades:
 
@@ -20,6 +23,3 @@ CRUD básico em PHP com as seguintes funcionalidades:
 - Felipe de Oliveira Leite
 - João Vitor Medeiros Uchoa
 - João Victor Saraiva
-
-|       `php`        |      <img src="./icons/PHP-Dark.svg" width="48">      |
-
